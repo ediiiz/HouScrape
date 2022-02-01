@@ -27,8 +27,8 @@ logindata = {
 "action": "do_login",
 "url": "/index.php",
 "my_post_key": "xx",
-"username": "ED1Zx",
-"password": "PZAX!rgDa7UxcR3",
+"username": "",
+"password": "",
 "remember": "yes",
 }
 
