@@ -1,0 +1,2046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:newznab="http://www.newznab.com/DTD/2010/feeds/attributes/" encoding="utf-8">
+ <channel>
+  <atom:link href="https://scenenzb.com/api" rel="self" type="application/rss+xml"/>
+  <title>SceneNZB</title>
+  <description>SceneNZB API Details</description>
+  <link>https://scenenzb.com/</link>
+  <language>en-gb</language>
+  <webMaster>scenenzbindexer@protonmail.ch SceneNZB</webMaster>
+  <category>usenet,nzbs,cms,community</category>
+  <generator>nZEDb</generator>
+  <ttl>10</ttl>
+  <docs>https://scenenzb.com/apihelp/</docs>
+  <image url="https://scenenzb.com/themes/shared/img/logo.png" title="SceneNZB" link="https://scenenzb.com/" description="Visit SceneNZB - "/>
+  <newznab:response offset="0" total="44056"/>
+  <item>
+   <title>Unter.Kontrolle.German.2008.DVDRiP.x264.iNTERNAL-CiA</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/643fc6184ea8c807b426fa0189e3e19254d5069e</guid>
+   <link>https://scenenzb.com/getnzb/643fc6184ea8c807b426fa0189e3e19254d5069e.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/643fc6184ea8c807b426fa0189e3e19254d5069e#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 20:47:44 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Unter.Kontrolle.German.2008.DVDRiP.x264.iNTERNAL-CiA</description>
+   <enclosure url="https://scenenzb.com/getnzb/643fc6184ea8c807b426fa0189e3e19254d5069e.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1461529442" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1461529442"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="21"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 20:41:24 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Traumfabrik.German.2019.BDRiP.x264-PL3X</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/a5a7d5a909e0e1d2aad93931bddf87609425d298</guid>
+   <link>https://scenenzb.com/getnzb/a5a7d5a909e0e1d2aad93931bddf87609425d298.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/a5a7d5a909e0e1d2aad93931bddf87609425d298#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 20:39:55 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Traumfabrik.German.2019.BDRiP.x264-PL3X</description>
+   <enclosure url="https://scenenzb.com/getnzb/a5a7d5a909e0e1d2aad93931bddf87609425d298.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1380959822" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1380959822"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/8157074-cover.jpg"/>
+   <newznab:attr name="files" value="21"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="8157074"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 20:33:24 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Traumfabrik.2019.German.720p.BluRay.x264-PL3X</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/ec1840dc971287e64eb7b5d80ebae2b19e0c9c64</guid>
+   <link>https://scenenzb.com/getnzb/ec1840dc971287e64eb7b5d80ebae2b19e0c9c64.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/ec1840dc971287e64eb7b5d80ebae2b19e0c9c64#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 20:36:00 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Traumfabrik.2019.German.720p.BluRay.x264-PL3X</description>
+   <enclosure url="https://scenenzb.com/getnzb/ec1840dc971287e64eb7b5d80ebae2b19e0c9c64.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3661713768" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3661713768"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/8157074-cover.jpg"/>
+   <newznab:attr name="files" value="41"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="8157074"/>
+   <newznab:attr name="grabs" value="6"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 20:29:27 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Rambo.5.Last.Blood.EXTENDED.2019.German.AC3.Dubbed.BDRip.x264.READ.NFO-PsO</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/ad4171a1d5456e36642b23c61e5f6ffc7895ea51</guid>
+   <link>https://scenenzb.com/getnzb/ad4171a1d5456e36642b23c61e5f6ffc7895ea51.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/ad4171a1d5456e36642b23c61e5f6ffc7895ea51#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 16:35:20 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Rambo.5.Last.Blood.EXTENDED.2019.German.AC3.Dubbed.BDRip.x264.READ.NFO-PsO</description>
+   <enclosure url="https://scenenzb.com/getnzb/ad4171a1d5456e36642b23c61e5f6ffc7895ea51.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1603721488" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1603721488"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="23"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 16:31:37 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Max.Payne.German.2008.DVDRiP.x264.iNTERNAL-CiA</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/e3f5293357d25a3fabfee78c1f97c50337abb24c</guid>
+   <link>https://scenenzb.com/getnzb/e3f5293357d25a3fabfee78c1f97c50337abb24c.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/e3f5293357d25a3fabfee78c1f97c50337abb24c#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 16:00:52 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Max.Payne.German.2008.DVDRiP.x264.iNTERNAL-CiA</description>
+   <enclosure url="https://scenenzb.com/getnzb/e3f5293357d25a3fabfee78c1f97c50337abb24c.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="980005991" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="980005991"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="17"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="1"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 15:58:16 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Jonah.Hex.German.2010.DVDRiP.x264.iNTERNAL-CiA</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/5bd1bfe37bda280745cf653feeadae693b6fbe90</guid>
+   <link>https://scenenzb.com/getnzb/5bd1bfe37bda280745cf653feeadae693b6fbe90.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/5bd1bfe37bda280745cf653feeadae693b6fbe90#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 15:57:27 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Jonah.Hex.German.2010.DVDRiP.x264.iNTERNAL-CiA</description>
+   <enclosure url="https://scenenzb.com/getnzb/5bd1bfe37bda280745cf653feeadae693b6fbe90.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="842058937" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="842058937"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/1075747-cover.jpg"/>
+   <newznab:attr name="files" value="16"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="1075747"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 15:52:59 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Idiocracy.German.2006.DVDRiP.x264.iNTERNAL-CiA</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/261d29b33abac7d8c584a68b48e2ed110945f7b8</guid>
+   <link>https://scenenzb.com/getnzb/261d29b33abac7d8c584a68b48e2ed110945f7b8.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/261d29b33abac7d8c584a68b48e2ed110945f7b8#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 15:53:55 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Idiocracy.German.2006.DVDRiP.x264.iNTERNAL-CiA</description>
+   <enclosure url="https://scenenzb.com/getnzb/261d29b33abac7d8c584a68b48e2ed110945f7b8.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1173413505" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1173413505"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0387808-cover.jpg"/>
+   <newznab:attr name="files" value="19"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0387808"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 15:50:58 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Drachenzaehmen.leicht.gemacht.Die.guten.alten.Zeiten.2019.German.DL.720p.WEB.h264-WvF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/c22967e3988970ec41f8e61eda06fe133eace24c</guid>
+   <link>https://scenenzb.com/getnzb/c22967e3988970ec41f8e61eda06fe133eace24c.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/c22967e3988970ec41f8e61eda06fe133eace24c#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 15:31:19 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Drachenzaehmen.leicht.gemacht.Die.guten.alten.Zeiten.2019.German.DL.720p.WEB.h264-WvF</description>
+   <enclosure url="https://scenenzb.com/getnzb/c22967e3988970ec41f8e61eda06fe133eace24c.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1022401565" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="1022401565"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="17"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="7"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 15:27:44 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Drachenzaehmen.leicht.gemacht.Die.guten.alten.Zeiten.2019.German.DL.1080p.WEB.h264.DIRFIX-WvF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/08e0e271be6d0f8071c9427e7ab7efd8d02b566e</guid>
+   <link>https://scenenzb.com/getnzb/08e0e271be6d0f8071c9427e7ab7efd8d02b566e.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/08e0e271be6d0f8071c9427e7ab7efd8d02b566e#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 15:29:07 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Drachenzaehmen.leicht.gemacht.Die.guten.alten.Zeiten.2019.German.DL.1080p.WEB.h264.DIRFIX-WvF</description>
+   <enclosure url="https://scenenzb.com/getnzb/08e0e271be6d0f8071c9427e7ab7efd8d02b566e.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="57021" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="57021"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="6"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="22"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="-1"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 15:27:09 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Die.Damaskus.Verschwoerung.Spion.zwischen.den.Fronten.2017.German.DL.1080p.BluRay.x264-PL3X</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/1c5aa9a015ef931a119cecf01683a1e724480787</guid>
+   <link>https://scenenzb.com/getnzb/1c5aa9a015ef931a119cecf01683a1e724480787.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/1c5aa9a015ef931a119cecf01683a1e724480787#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 15:26:43 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Die.Damaskus.Verschwoerung.Spion.zwischen.den.Fronten.2017.German.DL.1080p.BluRay.x264-PL3X</description>
+   <enclosure url="https://scenenzb.com/getnzb/1c5aa9a015ef931a119cecf01683a1e724480787.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="5212400066" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="5212400066"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="54"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 15:18:06 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Die.Damaskus.Verschwoerung.Spion.zwischen.den.Fronten.2017.German.720p.BluRay.x264-PL3X</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/d3f9647fa30e6651df451206fcbc36c54151dd86</guid>
+   <link>https://scenenzb.com/getnzb/d3f9647fa30e6651df451206fcbc36c54151dd86.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/d3f9647fa30e6651df451206fcbc36c54151dd86#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 15:18:03 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Die.Damaskus.Verschwoerung.Spion.zwischen.den.Fronten.2017.German.720p.BluRay.x264-PL3X</description>
+   <enclosure url="https://scenenzb.com/getnzb/d3f9647fa30e6651df451206fcbc36c54151dd86.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="2133157541" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="2133157541"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="27"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 15:12:52 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Body.Keepers.2018.German.DL.1080p.BluRay.x264-LizardSquad</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/af246483f3d70524113bb2d7a793c01716c9dea8</guid>
+   <link>https://scenenzb.com/getnzb/af246483f3d70524113bb2d7a793c01716c9dea8.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/af246483f3d70524113bb2d7a793c01716c9dea8#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 14:37:21 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Body.Keepers.2018.German.DL.1080p.BluRay.x264-LizardSquad</description>
+   <enclosure url="https://scenenzb.com/getnzb/af246483f3d70524113bb2d7a793c01716c9dea8.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="4278647394" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="4278647394"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/3769038-cover.jpg"/>
+   <newznab:attr name="files" value="46"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="3769038"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 14:30:00 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Body.Keepers.2018.German.BDRip.x264-LizardSquad</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/4d5d25699bebc522c21aefb2abcf1c40d8f19421</guid>
+   <link>https://scenenzb.com/getnzb/4d5d25699bebc522c21aefb2abcf1c40d8f19421.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/4d5d25699bebc522c21aefb2abcf1c40d8f19421#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 01:24:14 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Body.Keepers.2018.German.BDRip.x264-LizardSquad</description>
+   <enclosure url="https://scenenzb.com/getnzb/4d5d25699bebc522c21aefb2abcf1c40d8f19421.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="612154746" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="612154746"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/3769038-cover.jpg"/>
+   <newznab:attr name="files" value="14"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="3769038"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 01:18:53 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Body.Keepers.2018.German.720p.BluRay.x264-LizardSquad</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/d332cfc038465e1c69f8c87e10f46f294c68ebfc</guid>
+   <link>https://scenenzb.com/getnzb/d332cfc038465e1c69f8c87e10f46f294c68ebfc.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/d332cfc038465e1c69f8c87e10f46f294c68ebfc#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 01:21:53 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Body.Keepers.2018.German.720p.BluRay.x264-LizardSquad</description>
+   <enclosure url="https://scenenzb.com/getnzb/d332cfc038465e1c69f8c87e10f46f294c68ebfc.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1895089281" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="1895089281"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/3769038-cover.jpg"/>
+   <newznab:attr name="files" value="25"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="3769038"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 01:16:54 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Barbie.Zauberhafte.Weihnachten.2011.GERMAN.720p.HDTV.x264-TMSF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/320ee7730a43e3faf03548cee24802116acc96e3</guid>
+   <link>https://scenenzb.com/getnzb/320ee7730a43e3faf03548cee24802116acc96e3.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/320ee7730a43e3faf03548cee24802116acc96e3#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 01:19:13 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Barbie.Zauberhafte.Weihnachten.2011.GERMAN.720p.HDTV.x264-TMSF</description>
+   <enclosure url="https://scenenzb.com/getnzb/320ee7730a43e3faf03548cee24802116acc96e3.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1625382913" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="1625382913"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="23"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 01:13:38 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Barbie.Zauberhafte.Weihnachten.2011.GERMAN.1080p.HDTV.x264-TMSF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/8f35d7191e4b07b474ae9a8c3ea40cca337c559f</guid>
+   <link>https://scenenzb.com/getnzb/8f35d7191e4b07b474ae9a8c3ea40cca337c559f.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/8f35d7191e4b07b474ae9a8c3ea40cca337c559f#comments</comments>
+   <pubDate>Sat, 14 Dec 2019 01:15:19 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Barbie.Zauberhafte.Weihnachten.2011.GERMAN.1080p.HDTV.x264-TMSF</description>
+   <enclosure url="https://scenenzb.com/getnzb/8f35d7191e4b07b474ae9a8c3ea40cca337c559f.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3333170824" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3333170824"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="38"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Sat, 14 Dec 2019 01:09:39 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Trinity.Seven.Eternity.Libraryand.Alchemic.Girl.German.2017.ANiME.DL.BDRiP.x264-STARS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/de5396e049cacb6a699a032023cea3f210d8d329</guid>
+   <link>https://scenenzb.com/getnzb/de5396e049cacb6a699a032023cea3f210d8d329.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/de5396e049cacb6a699a032023cea3f210d8d329#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 18:19:39 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Trinity.Seven.Eternity.Libraryand.Alchemic.Girl.German.2017.ANiME.DL.BDRiP.x264-STARS</description>
+   <enclosure url="https://scenenzb.com/getnzb/de5396e049cacb6a699a032023cea3f210d8d329.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="697081199" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="697081199"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="15"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="6344696"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 18:16:34 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Trinity.Seven.Eternity.Libraryand.Alchemic.Girl.2017.German.DL.DTS.720p.BluRay.x264-STARS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/799be8ac3ffa0b6e4a2cb3996b7ebf03320c8374</guid>
+   <link>https://scenenzb.com/getnzb/799be8ac3ffa0b6e4a2cb3996b7ebf03320c8374.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/799be8ac3ffa0b6e4a2cb3996b7ebf03320c8374#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 18:20:19 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Trinity.Seven.Eternity.Libraryand.Alchemic.Girl.2017.German.DL.DTS.720p.BluRay.x264-STARS</description>
+   <enclosure url="https://scenenzb.com/getnzb/799be8ac3ffa0b6e4a2cb3996b7ebf03320c8374.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1347405096" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="1347405096"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="20"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 18:15:20 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Trinity.Seven.Eternity.Libraryand.Alchemic.Girl.2017.German.DL.DTS.1080p.BluRay.x264-STARS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/2cf479f42183c794a1642a8a8ae1167163d94ab4</guid>
+   <link>https://scenenzb.com/getnzb/2cf479f42183c794a1642a8a8ae1167163d94ab4.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/2cf479f42183c794a1642a8a8ae1167163d94ab4#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 18:16:57 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Trinity.Seven.Eternity.Libraryand.Alchemic.Girl.2017.German.DL.DTS.1080p.BluRay.x264-STARS</description>
+   <enclosure url="https://scenenzb.com/getnzb/2cf479f42183c794a1642a8a8ae1167163d94ab4.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="2011972770" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="2011972770"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="26"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 18:13:05 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Persona.3.The.Movie.Nr.4.Winter.of.Rebirth.German.2016.ANiME.DL.BDRiP.x264-STARS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/eea2ea5567588f58057228c4889b0370eafd550d</guid>
+   <link>https://scenenzb.com/getnzb/eea2ea5567588f58057228c4889b0370eafd550d.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/eea2ea5567588f58057228c4889b0370eafd550d#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 17:39:32 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Persona.3.The.Movie.Nr.4.Winter.of.Rebirth.German.2016.ANiME.DL.BDRiP.x264-STARS</description>
+   <enclosure url="https://scenenzb.com/getnzb/eea2ea5567588f58057228c4889b0370eafd550d.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1332543232" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1332543232"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="20"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 17:32:52 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Persona.3.The.Movie.Nr.4.Winter.of.Rebirth.2016.German.DL.720p.BluRay.x264-STARS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/d799627c9a2678abb1e054d724037ed74a3c70d1</guid>
+   <link>https://scenenzb.com/getnzb/d799627c9a2678abb1e054d724037ed74a3c70d1.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/d799627c9a2678abb1e054d724037ed74a3c70d1#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 17:37:39 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Persona.3.The.Movie.Nr.4.Winter.of.Rebirth.2016.German.DL.720p.BluRay.x264-STARS</description>
+   <enclosure url="https://scenenzb.com/getnzb/d799627c9a2678abb1e054d724037ed74a3c70d1.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3949244077" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3949244077"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="43"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 17:28:46 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Persona.3.The.Movie.Nr.4.Winter.of.Rebirth.2016.German.DL.1080p.BluRay.x264-STARS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/4a718cc0f69fc0e4bbdfcf88d342b580e833ac7a</guid>
+   <link>https://scenenzb.com/getnzb/4a718cc0f69fc0e4bbdfcf88d342b580e833ac7a.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/4a718cc0f69fc0e4bbdfcf88d342b580e833ac7a#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 17:30:39 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Persona.3.The.Movie.Nr.4.Winter.of.Rebirth.2016.German.DL.1080p.BluRay.x264-STARS</description>
+   <enclosure url="https://scenenzb.com/getnzb/4a718cc0f69fc0e4bbdfcf88d342b580e833ac7a.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="5794972637" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="5794972637"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="59"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="1"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 17:21:01 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Persona.3.The.Movie.Nr.3.Falling.Down.German.2015.ANiME.DL.BDRiP.x264-STARS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/694d80418b5646a65e40d2c94336f6991b0aafb0</guid>
+   <link>https://scenenzb.com/getnzb/694d80418b5646a65e40d2c94336f6991b0aafb0.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/694d80418b5646a65e40d2c94336f6991b0aafb0#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 17:23:24 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Persona.3.The.Movie.Nr.3.Falling.Down.German.2015.ANiME.DL.BDRiP.x264-STARS</description>
+   <enclosure url="https://scenenzb.com/getnzb/694d80418b5646a65e40d2c94336f6991b0aafb0.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="957547172" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="957547172"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="17"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 17:17:16 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Persona.3.The.Movie.Nr.3.Falling.Down.2015.German.DL.720p.BluRay.x264-STARS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/22915a712f5553a749b3275d32f311182cd87826</guid>
+   <link>https://scenenzb.com/getnzb/22915a712f5553a749b3275d32f311182cd87826.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/22915a712f5553a749b3275d32f311182cd87826#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 17:20:43 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Persona.3.The.Movie.Nr.3.Falling.Down.2015.German.DL.720p.BluRay.x264-STARS</description>
+   <enclosure url="https://scenenzb.com/getnzb/22915a712f5553a749b3275d32f311182cd87826.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="2976743305" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="2976743305"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="35"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 17:15:36 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Persona.3.The.Movie.Nr.3.Falling.Down.2015.German.DL.1080p.BluRay.x264-STARS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/a156fab1513bb969b482c0660eab9074392dafb1</guid>
+   <link>https://scenenzb.com/getnzb/a156fab1513bb969b482c0660eab9074392dafb1.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/a156fab1513bb969b482c0660eab9074392dafb1#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 17:17:01 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Persona.3.The.Movie.Nr.3.Falling.Down.2015.German.DL.1080p.BluRay.x264-STARS</description>
+   <enclosure url="https://scenenzb.com/getnzb/a156fab1513bb969b482c0660eab9074392dafb1.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3983511470" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3983511470"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="44"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 17:10:07 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Persona.3.The.Movie.Nr.2.Midsummer.Knights.Dream.German.2014.ANiME.DL.BDRiP.x264-STARS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/1a02e26723ed5023a61c69dca97649185fd57afe</guid>
+   <link>https://scenenzb.com/getnzb/1a02e26723ed5023a61c69dca97649185fd57afe.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/1a02e26723ed5023a61c69dca97649185fd57afe#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 17:11:42 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Persona.3.The.Movie.Nr.2.Midsummer.Knights.Dream.German.2014.ANiME.DL.BDRiP.x264-STARS</description>
+   <enclosure url="https://scenenzb.com/getnzb/1a02e26723ed5023a61c69dca97649185fd57afe.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="755399164" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="755399164"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="15"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 17:07:15 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Persona.3.The.Movie.Nr.2.Midsummer.Knights.Dream.2014.German.DL.720p.BluRay.x264-STARS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/371fe2e87a3bed59f08a320ff54c9ea2d45a6108</guid>
+   <link>https://scenenzb.com/getnzb/371fe2e87a3bed59f08a320ff54c9ea2d45a6108.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/371fe2e87a3bed59f08a320ff54c9ea2d45a6108#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 17:09:43 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Persona.3.The.Movie.Nr.2.Midsummer.Knights.Dream.2014.German.DL.720p.BluRay.x264-STARS</description>
+   <enclosure url="https://scenenzb.com/getnzb/371fe2e87a3bed59f08a320ff54c9ea2d45a6108.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="2131088116" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="2131088116"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="27"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 17:04:55 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Persona.3.The.Movie.Nr.2.Midsummer.Knights.Dream.2014.German.DL.1080p.BluRay.x264-STARS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/8c46784dabcf02923609a7e8d5ee96928952a463</guid>
+   <link>https://scenenzb.com/getnzb/8c46784dabcf02923609a7e8d5ee96928952a463.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/8c46784dabcf02923609a7e8d5ee96928952a463#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 17:07:16 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Persona.3.The.Movie.Nr.2.Midsummer.Knights.Dream.2014.German.DL.1080p.BluRay.x264-STARS</description>
+   <enclosure url="https://scenenzb.com/getnzb/8c46784dabcf02923609a7e8d5ee96928952a463.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3178145363" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3178145363"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="36"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 17:01:24 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Mein.Weihnachtstraum.2016.GERMAN.DL.PAL.DVDR-iNViTE</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/6dabf86684f5a344ae41fb4d6a6e0b7abbf9dcbe</guid>
+   <link>https://scenenzb.com/getnzb/6dabf86684f5a344ae41fb4d6a6e0b7abbf9dcbe.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/6dabf86684f5a344ae41fb4d6a6e0b7abbf9dcbe#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 17:00:14 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Mein.Weihnachtstraum.2016.GERMAN.DL.PAL.DVDR-iNViTE</description>
+   <enclosure url="https://scenenzb.com/getnzb/6dabf86684f5a344ae41fb4d6a6e0b7abbf9dcbe.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="5132408014" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="5132408014"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="54"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 16:56:11 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Mein.Weihnachtstraum.2016.GERMAN.DL.COMPLETE.PAL.DVD9-iNViTE</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/4908a630d7d62dcc6ee6187e829d6faab7c26a5e</guid>
+   <link>https://scenenzb.com/getnzb/4908a630d7d62dcc6ee6187e829d6faab7c26a5e.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/4908a630d7d62dcc6ee6187e829d6faab7c26a5e#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 16:54:18 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Mein.Weihnachtstraum.2016.GERMAN.DL.COMPLETE.PAL.DVD9-iNViTE</description>
+   <enclosure url="https://scenenzb.com/getnzb/4908a630d7d62dcc6ee6187e829d6faab7c26a5e.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="7420596536" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="7420596536"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="74"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 16:40:21 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Honey.4.Lebe.Deinen.Traum.2018.GERMAN.ML.COMPLETE.PAL.DVD9-iNViTE</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/e403cccd08a16f909468ba67b4e657ea40363e39</guid>
+   <link>https://scenenzb.com/getnzb/e403cccd08a16f909468ba67b4e657ea40363e39.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/e403cccd08a16f909468ba67b4e657ea40363e39#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 16:27:54 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Honey.4.Lebe.Deinen.Traum.2018.GERMAN.ML.COMPLETE.PAL.DVD9-iNViTE</description>
+   <enclosure url="https://scenenzb.com/getnzb/e403cccd08a16f909468ba67b4e657ea40363e39.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="7188732166" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="7188732166"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="72"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 16:17:21 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Honey.4.Lebe.Deinen.Traum.2018.GERMAN.DL.PAL.DVDR-iNViTE</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/06965e7e8f3e4b9887445fdaa22a6d72a50614b6</guid>
+   <link>https://scenenzb.com/getnzb/06965e7e8f3e4b9887445fdaa22a6d72a50614b6.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/06965e7e8f3e4b9887445fdaa22a6d72a50614b6#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 16:16:59 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Honey.4.Lebe.Deinen.Traum.2018.GERMAN.DL.PAL.DVDR-iNViTE</description>
+   <enclosure url="https://scenenzb.com/getnzb/06965e7e8f3e4b9887445fdaa22a6d72a50614b6.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="5129897722" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="5129897722"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="54"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 16:07:35 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Deep.Star.Six.1989.GERMAN.DL.COMPLETE.PAL.DVD9-iNViTE</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/3cef13a46561540cd74a2d4129cc2d583af52497</guid>
+   <link>https://scenenzb.com/getnzb/3cef13a46561540cd74a2d4129cc2d583af52497.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/3cef13a46561540cd74a2d4129cc2d583af52497#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 16:05:26 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Deep.Star.Six.1989.GERMAN.DL.COMPLETE.PAL.DVD9-iNViTE</description>
+   <enclosure url="https://scenenzb.com/getnzb/3cef13a46561540cd74a2d4129cc2d583af52497.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="8487269350" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="8487269350"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="83"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 12 Dec 2019 15:53:30 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Scotland.Yard.jagt.Dr.Mabuse.German.1963.AC3.BDRip.x264.iNTERNAL-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/06543975b33c29c0c63e0c9b36c74ad158bfd6e3</guid>
+   <link>https://scenenzb.com/getnzb/06543975b33c29c0c63e0c9b36c74ad158bfd6e3.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/06543975b33c29c0c63e0c9b36c74ad158bfd6e3#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 21:27:54 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Scotland.Yard.jagt.Dr.Mabuse.German.1963.AC3.BDRip.x264.iNTERNAL-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/06543975b33c29c0c63e0c9b36c74ad158bfd6e3.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1335244535" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1335244535"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0057479-cover.jpg"/>
+   <newznab:attr name="files" value="20"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0057479"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 21:15:51 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Scotland.Yard.jagt.Dr.Mabuse.1963.German.720p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/ee25e4d7f44510e51c6ccfaf1a082a0ed65ead66</guid>
+   <link>https://scenenzb.com/getnzb/ee25e4d7f44510e51c6ccfaf1a082a0ed65ead66.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/ee25e4d7f44510e51c6ccfaf1a082a0ed65ead66#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 21:21:25 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Scotland.Yard.jagt.Dr.Mabuse.1963.German.720p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/ee25e4d7f44510e51c6ccfaf1a082a0ed65ead66.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3851481921" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3851481921"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="42"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 21:11:54 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Scotland.Yard.jagt.Dr.Mabuse.1963.German.1080p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/87992748dbf580b656a24cbef635977b81841270</guid>
+   <link>https://scenenzb.com/getnzb/87992748dbf580b656a24cbef635977b81841270.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/87992748dbf580b656a24cbef635977b81841270#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 21:16:09 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Scotland.Yard.jagt.Dr.Mabuse.1963.German.1080p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/87992748dbf580b656a24cbef635977b81841270.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="7703725238" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="7703725238"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="76"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="5"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 21:01:23 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Inside.Man.2006.German.AC3.1080p.BluRay.x265-GTF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/3ed2f34ce9cf444fd942fe785bc09d1cb3b7f8ad</guid>
+   <link>https://scenenzb.com/getnzb/3ed2f34ce9cf444fd942fe785bc09d1cb3b7f8ad.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/3ed2f34ce9cf444fd942fe785bc09d1cb3b7f8ad#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:59:40 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Inside.Man.2006.German.AC3.1080p.BluRay.x265-GTF</description>
+   <enclosure url="https://scenenzb.com/getnzb/3ed2f34ce9cf444fd942fe785bc09d1cb3b7f8ad.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="2660800681" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="2660800681"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0454848-cover.jpg"/>
+   <newznab:attr name="files" value="32"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0454848"/>
+   <newznab:attr name="grabs" value="52"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 20:52:56 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Im.Stahlnetz.des.Dr.Mabuse.German.1961.AC3.BDRip.x264.iNTERNAL-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/c6e045f3baa617cf1d61a99901f752acf37d122d</guid>
+   <link>https://scenenzb.com/getnzb/c6e045f3baa617cf1d61a99901f752acf37d122d.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/c6e045f3baa617cf1d61a99901f752acf37d122d#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:53:48 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Im.Stahlnetz.des.Dr.Mabuse.German.1961.AC3.BDRip.x264.iNTERNAL-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/c6e045f3baa617cf1d61a99901f752acf37d122d.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1037251667" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1037251667"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0055008-cover.jpg"/>
+   <newznab:attr name="files" value="18"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0055008"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 20:49:57 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Im.Stahlnetz.des.Dr.Mabuse.1961.German.720p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/043d1697fd14c49bbc55e4a8835e3e7a5d652639</guid>
+   <link>https://scenenzb.com/getnzb/043d1697fd14c49bbc55e4a8835e3e7a5d652639.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/043d1697fd14c49bbc55e4a8835e3e7a5d652639#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:54:09 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Im.Stahlnetz.des.Dr.Mabuse.1961.German.720p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/043d1697fd14c49bbc55e4a8835e3e7a5d652639.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3864694930" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3864694930"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="43"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 20:47:18 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Im.Stahlnetz.des.Dr.Mabuse.1961.German.1080p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/26978516e6ff4f35c412c01c7ee85b89c3671351</guid>
+   <link>https://scenenzb.com/getnzb/26978516e6ff4f35c412c01c7ee85b89c3671351.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/26978516e6ff4f35c412c01c7ee85b89c3671351#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:48:30 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Im.Stahlnetz.des.Dr.Mabuse.1961.German.1080p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/26978516e6ff4f35c412c01c7ee85b89c3671351.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="7742575999" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="7742575999"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="77"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 20:37:43 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Fallen.Angels.German.2006.DVDRiP.x264.iNTERNAL-CiA</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/108373789d69ae62287d833fe1a50e2ed312e257</guid>
+   <link>https://scenenzb.com/getnzb/108373789d69ae62287d833fe1a50e2ed312e257.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/108373789d69ae62287d833fe1a50e2ed312e257#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:37:52 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Fallen.Angels.German.2006.DVDRiP.x264.iNTERNAL-CiA</description>
+   <enclosure url="https://scenenzb.com/getnzb/108373789d69ae62287d833fe1a50e2ed312e257.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="903346444" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="903346444"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="16"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 20:23:09 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Die.unsichtbaren.Krallen.des.Dr.Mabuse.German.1962.AC3.BDRip.x264.iNTERNAL-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/a416fd22ef3a1d0cff9bc6b5024db9bc3bff3df0</guid>
+   <link>https://scenenzb.com/getnzb/a416fd22ef3a1d0cff9bc6b5024db9bc3bff3df0.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/a416fd22ef3a1d0cff9bc6b5024db9bc3bff3df0#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:29:49 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Die.unsichtbaren.Krallen.des.Dr.Mabuse.German.1962.AC3.BDRip.x264.iNTERNAL-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/a416fd22ef3a1d0cff9bc6b5024db9bc3bff3df0.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="890769445" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="890769445"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="16"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0056639"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 20:21:49 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Die.unsichtbaren.Krallen.des.Dr.Mabuse.1962.German.720p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/d15d2ce5f5f99acb2e22ddf7ce81d65fac0310fc</guid>
+   <link>https://scenenzb.com/getnzb/d15d2ce5f5f99acb2e22ddf7ce81d65fac0310fc.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/d15d2ce5f5f99acb2e22ddf7ce81d65fac0310fc#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:30:21 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Die.unsichtbaren.Krallen.des.Dr.Mabuse.1962.German.720p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/d15d2ce5f5f99acb2e22ddf7ce81d65fac0310fc.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3872096617" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3872096617"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="43"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0056639"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 20:17:38 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Die.unsichtbaren.Krallen.des.Dr.Mabuse.1962.German.1080p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/ba25e64a4adcc25cf225d5db6afd4c3ccb7aebb6</guid>
+   <link>https://scenenzb.com/getnzb/ba25e64a4adcc25cf225d5db6afd4c3ccb7aebb6.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/ba25e64a4adcc25cf225d5db6afd4c3ccb7aebb6#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:23:39 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Die.unsichtbaren.Krallen.des.Dr.Mabuse.1962.German.1080p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/ba25e64a4adcc25cf225d5db6afd4c3ccb7aebb6.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="7755042610" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="7755042610"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="77"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0056639"/>
+   <newznab:attr name="grabs" value="6"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 20:08:12 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Die.1000.Augen.des.Dr.Mabuse.German.1960.AC3.BDRip.x264.iNTERNAL-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/c75c9492771386dc138348e48c1682c06efc2c69</guid>
+   <link>https://scenenzb.com/getnzb/c75c9492771386dc138348e48c1682c06efc2c69.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/c75c9492771386dc138348e48c1682c06efc2c69#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:08:31 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Die.1000.Augen.des.Dr.Mabuse.German.1960.AC3.BDRip.x264.iNTERNAL-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/c75c9492771386dc138348e48c1682c06efc2c69.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1015548829" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1015548829"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0054371-cover.jpg"/>
+   <newznab:attr name="files" value="17"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0054371"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 20:00:40 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Die.1000.Augen.des.Dr.Mabuse.1960.German.720p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/d3ba9be3ff115727656486f491bf186468c1e6ee</guid>
+   <link>https://scenenzb.com/getnzb/d3ba9be3ff115727656486f491bf186468c1e6ee.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/d3ba9be3ff115727656486f491bf186468c1e6ee#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:08:36 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Die.1000.Augen.des.Dr.Mabuse.1960.German.720p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/d3ba9be3ff115727656486f491bf186468c1e6ee.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3847993296" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3847993296"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="42"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 19:58:00 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Die.1000.Augen.des.Dr.Mabuse.1960.German.1080p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/beb4c8409fbe09bd225f94c93dc9e68420cc5ca9</guid>
+   <link>https://scenenzb.com/getnzb/beb4c8409fbe09bd225f94c93dc9e68420cc5ca9.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/beb4c8409fbe09bd225f94c93dc9e68420cc5ca9#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 19:54:22 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Die.1000.Augen.des.Dr.Mabuse.1960.German.1080p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/beb4c8409fbe09bd225f94c93dc9e68420cc5ca9.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="7700567338" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="7700567338"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="76"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="6"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 19:45:09 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Der.Kongress.tanzt.German.1931.AC3.BDRip.x264.iNTERNAL-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/7da8d3507787a1f194890baf1146c82f504e8f1b</guid>
+   <link>https://scenenzb.com/getnzb/7da8d3507787a1f194890baf1146c82f504e8f1b.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/7da8d3507787a1f194890baf1146c82f504e8f1b#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 19:41:25 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Der.Kongress.tanzt.German.1931.AC3.BDRip.x264.iNTERNAL-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/7da8d3507787a1f194890baf1146c82f504e8f1b.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1144739743" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1144739743"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="19"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0022034"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 19:38:24 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Der.Kongress.tanzt.1931.German.1080p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/f65a37e31be9e87efd17ae5db1b9c832d8ed7935</guid>
+   <link>https://scenenzb.com/getnzb/f65a37e31be9e87efd17ae5db1b9c832d8ed7935.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/f65a37e31be9e87efd17ae5db1b9c832d8ed7935#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 19:41:45 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Der.Kongress.tanzt.1931.German.1080p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/f65a37e31be9e87efd17ae5db1b9c832d8ed7935.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="8959376532" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="8959376532"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="87"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0022034"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 19:24:38 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Der.Kongress.tanzt.1931.German.720p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/aba0eda00106b44074c73cdf22ce6c215029e402</guid>
+   <link>https://scenenzb.com/getnzb/aba0eda00106b44074c73cdf22ce6c215029e402.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/aba0eda00106b44074c73cdf22ce6c215029e402#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 19:24:48 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Der.Kongress.tanzt.1931.German.720p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/aba0eda00106b44074c73cdf22ce6c215029e402.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3839829451" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3839829451"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="42"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0022034"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 19:14:55 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Fussball.1.Bundesliga.2019-2020.14.Spieltag.RB.Leipzig.vs.1899.Hoffenheim.German.1080p.HDTV.x264-iSEC</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/074be9fb0af93c1e3e4103df2be4f607b6dc2821</guid>
+   <link>https://scenenzb.com/getnzb/074be9fb0af93c1e3e4103df2be4f607b6dc2821.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/074be9fb0af93c1e3e4103df2be4f607b6dc2821#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 11:44:02 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Fussball.1.Bundesliga.2019-2020.14.Spieltag.RB.Leipzig.vs.1899.Hoffenheim.German.1080p.HDTV.x264-iSEC</description>
+   <enclosure url="https://scenenzb.com/getnzb/074be9fb0af93c1e3e4103df2be4f607b6dc2821.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="7323205663" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="7323205663"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="73"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 11:30:45 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Fussball.1.Bundesliga.2018-2019.-.Bayer.04.Leverkusen.vs.FC.Schalke.04.German.1080p.HDTV.x264-UTOPiA</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/814978e5f08020053087a3dd3d7c28da826716a2</guid>
+   <link>https://scenenzb.com/getnzb/814978e5f08020053087a3dd3d7c28da826716a2.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/814978e5f08020053087a3dd3d7c28da826716a2#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 11:30:41 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Fussball.1.Bundesliga.2018-2019.-.Bayer.04.Leverkusen.vs.FC.Schalke.04.German.1080p.HDTV.x264-UTOPiA</description>
+   <enclosure url="https://scenenzb.com/getnzb/814978e5f08020053087a3dd3d7c28da826716a2.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="11662781106" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="11662781106"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="111"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 11:13:38 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>A.Family.Reunion.Christmas.2019.GERMAN.WEBRip.x264-TMSF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/1cab69eea17ff9a2c31b1a020f67c10b3dda91bf</guid>
+   <link>https://scenenzb.com/getnzb/1cab69eea17ff9a2c31b1a020f67c10b3dda91bf.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/1cab69eea17ff9a2c31b1a020f67c10b3dda91bf#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 10:43:44 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>A.Family.Reunion.Christmas.2019.GERMAN.WEBRip.x264-TMSF</description>
+   <enclosure url="https://scenenzb.com/getnzb/1cab69eea17ff9a2c31b1a020f67c10b3dda91bf.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="436247480" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="436247480"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="12"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 10:35:40 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Anna.2019.GERMAN.AC3.1080p.BluRay.x265-GTF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/8c1554f2f1a8bcc82ae0d7365b73ba253661c8d7</guid>
+   <link>https://scenenzb.com/getnzb/8c1554f2f1a8bcc82ae0d7365b73ba253661c8d7.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/8c1554f2f1a8bcc82ae0d7365b73ba253661c8d7#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:08:41 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Anna.2019.GERMAN.AC3.1080p.BluRay.x265-GTF</description>
+   <enclosure url="https://scenenzb.com/getnzb/8c1554f2f1a8bcc82ae0d7365b73ba253661c8d7.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="2423324986" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="2423324986"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/7456310-cover.jpg"/>
+   <newznab:attr name="files" value="40"/>
+   <newznab:attr name="poster" value="&quot;jbinup&quot; &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="imdb" value="7456310"/>
+   <newznab:attr name="grabs" value="103"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 08:13:35 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+  <item>
+   <title>Die.Entfuehrung.der.U.Bahn.Pelham.123.2009.German.AC3.1080p.BluRay.x265-GTF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/0470553ca15031bd228497bd6fb5ad525e725d12</guid>
+   <link>https://scenenzb.com/getnzb/0470553ca15031bd228497bd6fb5ad525e725d12.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/0470553ca15031bd228497bd6fb5ad525e725d12#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:08:54 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Die.Entfuehrung.der.U.Bahn.Pelham.123.2009.German.AC3.1080p.BluRay.x265-GTF</description>
+   <enclosure url="https://scenenzb.com/getnzb/0470553ca15031bd228497bd6fb5ad525e725d12.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3204657331" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3204657331"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="45"/>
+   <newznab:attr name="poster" value="&quot;jbinup&quot; &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="grabs" value="7"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Wed, 11 Dec 2019 06:28:50 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+  <item>
+   <title>Ralf.Schmitz.live.Schmitzeljagd.GERMAN.WS.HDTVRip.x264-TMSF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/40b0ed35a1837a7adb5d0a7118d8da83f6370328</guid>
+   <link>https://scenenzb.com/getnzb/40b0ed35a1837a7adb5d0a7118d8da83f6370328.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/40b0ed35a1837a7adb5d0a7118d8da83f6370328#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 15:05:00 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Ralf.Schmitz.live.Schmitzeljagd.GERMAN.WS.HDTVRip.x264-TMSF</description>
+   <enclosure url="https://scenenzb.com/getnzb/40b0ed35a1837a7adb5d0a7118d8da83f6370328.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1010201385" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1010201385"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="17"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 14:59:03 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Ralf.Schmitz.live.Schmitzeljagd.GERMAN.720p.HDTV.x264-TMSF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/c54ca565fd9fe13f6eb4c426677e452bef8401a1</guid>
+   <link>https://scenenzb.com/getnzb/c54ca565fd9fe13f6eb4c426677e452bef8401a1.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/c54ca565fd9fe13f6eb4c426677e452bef8401a1#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 15:02:20 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Ralf.Schmitz.live.Schmitzeljagd.GERMAN.720p.HDTV.x264-TMSF</description>
+   <enclosure url="https://scenenzb.com/getnzb/c54ca565fd9fe13f6eb4c426677e452bef8401a1.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="2382098585" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="2382098585"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="29"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 14:56:01 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Mario.Barth.live.Maenner.sind.faul.sagen.die.Frauen.GERMAN.WS.HDTVRip.x264-TMSF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/16040f308523440726b2566922ebeb622ee3679f</guid>
+   <link>https://scenenzb.com/getnzb/16040f308523440726b2566922ebeb622ee3679f.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/16040f308523440726b2566922ebeb622ee3679f#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 14:20:15 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Mario.Barth.live.Maenner.sind.faul.sagen.die.Frauen.GERMAN.WS.HDTVRip.x264-TMSF</description>
+   <enclosure url="https://scenenzb.com/getnzb/16040f308523440726b2566922ebeb622ee3679f.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1715689490" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1715689490"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="24"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 14:13:04 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Mario.Barth.live.Maenner.sind.faul.sagen.die.Frauen.GERMAN.720p.HDTV.x264-TMSF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/2ac506974866306289fc24949948f7ef963f7c47</guid>
+   <link>https://scenenzb.com/getnzb/2ac506974866306289fc24949948f7ef963f7c47.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/2ac506974866306289fc24949948f7ef963f7c47#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 14:17:52 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Mario.Barth.live.Maenner.sind.faul.sagen.die.Frauen.GERMAN.720p.HDTV.x264-TMSF</description>
+   <enclosure url="https://scenenzb.com/getnzb/2ac506974866306289fc24949948f7ef963f7c47.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="4105679389" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="4105679389"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="45"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 14:09:12 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>European.Tour.2019.Italian.Open.Finalrunde.GERMAN.DL.720p.HDTV.x264-aWake</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/5d6d3a9965ae5eda43a30cfde9d59b248a6cbb5c</guid>
+   <link>https://scenenzb.com/getnzb/5d6d3a9965ae5eda43a30cfde9d59b248a6cbb5c.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/5d6d3a9965ae5eda43a30cfde9d59b248a6cbb5c#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 12:46:48 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>European.Tour.2019.Italian.Open.Finalrunde.GERMAN.DL.720p.HDTV.x264-aWake</description>
+   <enclosure url="https://scenenzb.com/getnzb/5d6d3a9965ae5eda43a30cfde9d59b248a6cbb5c.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3061156016" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3061156016"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="35"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 12:41:21 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Allein.an.der.Front.2018.GERMAN.DUAL.COMPLETE.BLURAY-UNiVERSUM</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/9c10e4916026ecf42966db591b0852eec1c8084d</guid>
+   <link>https://scenenzb.com/getnzb/9c10e4916026ecf42966db591b0852eec1c8084d.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/9c10e4916026ecf42966db591b0852eec1c8084d#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:07:55 +0100</pubDate>
+   <category>Movies &gt; BluRay</category>
+   <description>Allein.an.der.Front.2018.GERMAN.DUAL.COMPLETE.BLURAY-UNiVERSUM</description>
+   <enclosure url="https://scenenzb.com/getnzb/9c10e4916026ecf42966db591b0852eec1c8084d.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="27716098669" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2060"/>
+   <newznab:attr name="size" value="27716098669"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="109"/>
+   <newznab:attr name="poster" value="&quot;IC4JoiVIp5&quot; &lt;9ot3V5EQMQuW@ZHm88SS.6KT&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 10:19:58 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.whitburn"/>
+  </item>
+  <item>
+   <title>Der.Herrscher.von.Cornwall.1962.German.DL.1080p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/9ae7f2d409e9cc27df977dc5e4607444546d7c0c</guid>
+   <link>https://scenenzb.com/getnzb/9ae7f2d409e9cc27df977dc5e4607444546d7c0c.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/9ae7f2d409e9cc27df977dc5e4607444546d7c0c#comments</comments>
+   <pubDate>Thu, 12 Dec 2019 20:02:31 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Der.Herrscher.von.Cornwall.1962.German.DL.1080p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/9ae7f2d409e9cc27df977dc5e4607444546d7c0c.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="9686102678" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="9686102678"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="102"/>
+   <newznab:attr name="poster" value="&quot;jbinup&quot; &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 09:00:20 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+  <item>
+   <title>Allein.an.der.Front.2018.GERMAN.DL.1080p.BluRay.AVC-iTSMEMARiO</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/70b89fe972de44bba0e2ed6d9513822ca91390d8</guid>
+   <link>https://scenenzb.com/getnzb/70b89fe972de44bba0e2ed6d9513822ca91390d8.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/70b89fe972de44bba0e2ed6d9513822ca91390d8#comments</comments>
+   <pubDate>Wed, 11 Dec 2019 20:00:01 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Allein.an.der.Front.2018.GERMAN.DL.1080p.BluRay.AVC-iTSMEMARiO</description>
+   <enclosure url="https://scenenzb.com/getnzb/70b89fe972de44bba0e2ed6d9513822ca91390d8.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="23260052903" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="23260052903"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="120"/>
+   <newznab:attr name="poster" value="&quot;jbinup&quot; &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 07:07:51 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+  <item>
+   <title>Von.wegen.altes.Eisen.GERMAN.2019.HDTVRip.x264-Pumuck</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/c58e24bfeefd3482075d9c3a86c54a3e23ad787f</guid>
+   <link>https://scenenzb.com/getnzb/c58e24bfeefd3482075d9c3a86c54a3e23ad787f.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/c58e24bfeefd3482075d9c3a86c54a3e23ad787f#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 02:01:45 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Von.wegen.altes.Eisen.GERMAN.2019.HDTVRip.x264-Pumuck</description>
+   <enclosure url="https://scenenzb.com/getnzb/c58e24bfeefd3482075d9c3a86c54a3e23ad787f.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="773300534" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="773300534"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="15"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 01:55:16 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Von.wegen.altes.Eisen.2019.GERMAN.720p.HDTV.x264-Pumuck</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/aa7936937d170bf76a7f6ff2ef7c5e79be552669</guid>
+   <link>https://scenenzb.com/getnzb/aa7936937d170bf76a7f6ff2ef7c5e79be552669.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/aa7936937d170bf76a7f6ff2ef7c5e79be552669#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 01:58:21 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Von.wegen.altes.Eisen.2019.GERMAN.720p.HDTV.x264-Pumuck</description>
+   <enclosure url="https://scenenzb.com/getnzb/aa7936937d170bf76a7f6ff2ef7c5e79be552669.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1941958870" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="1941958870"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="26"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 01:53:17 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>The.Book.of.Eli.2010.German.AC3.1080p.BluRay.x265-GTF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/24ef3f215832ff3072cda6a4afbbf01f2cb7c403</guid>
+   <link>https://scenenzb.com/getnzb/24ef3f215832ff3072cda6a4afbbf01f2cb7c403.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/24ef3f215832ff3072cda6a4afbbf01f2cb7c403#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 01:56:22 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>The.Book.of.Eli.2010.German.AC3.1080p.BluRay.x265-GTF</description>
+   <enclosure url="https://scenenzb.com/getnzb/24ef3f215832ff3072cda6a4afbbf01f2cb7c403.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1464074737" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="1464074737"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/1037705-cover.jpg"/>
+   <newznab:attr name="files" value="21"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="1037705"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 01:51:03 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Secret.Santa.GERMAN.2018.UNCUT.AC3.BDRip.x264-UNiVERSUM</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/dfeccd80e7e2c9d8802571568d88d6c646f89e57</guid>
+   <link>https://scenenzb.com/getnzb/dfeccd80e7e2c9d8802571568d88d6c646f89e57.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/dfeccd80e7e2c9d8802571568d88d6c646f89e57#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 01:51:39 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Secret.Santa.GERMAN.2018.UNCUT.AC3.BDRip.x264-UNiVERSUM</description>
+   <enclosure url="https://scenenzb.com/getnzb/dfeccd80e7e2c9d8802571568d88d6c646f89e57.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="913784650" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="913784650"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/6328004-cover.jpg"/>
+   <newznab:attr name="files" value="17"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="6328004"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 01:46:42 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Secret.Santa.2018.UNCUT.GERMAN.720p.BluRay.x264-UNiVERSUM</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/eeb807082e0c5c0ff5b108e3d5b0ea3ed0f4c85f</guid>
+   <link>https://scenenzb.com/getnzb/eeb807082e0c5c0ff5b108e3d5b0ea3ed0f4c85f.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/eeb807082e0c5c0ff5b108e3d5b0ea3ed0f4c85f#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 01:48:58 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Secret.Santa.2018.UNCUT.GERMAN.720p.BluRay.x264-UNiVERSUM</description>
+   <enclosure url="https://scenenzb.com/getnzb/eeb807082e0c5c0ff5b108e3d5b0ea3ed0f4c85f.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="2601894658" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="2601894658"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="31"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 01:44:31 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Maenner.sind.wie.Schokolade.1999.GERMAN.HDTVRiP.x264-TVPOOL</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/17cad301b61d4706a8c2777e2c4ff333eed3fba2</guid>
+   <link>https://scenenzb.com/getnzb/17cad301b61d4706a8c2777e2c4ff333eed3fba2.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/17cad301b61d4706a8c2777e2c4ff333eed3fba2#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 01:05:58 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Maenner.sind.wie.Schokolade.1999.GERMAN.HDTVRiP.x264-TVPOOL</description>
+   <enclosure url="https://scenenzb.com/getnzb/17cad301b61d4706a8c2777e2c4ff333eed3fba2.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="754987222" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="754987222"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="15"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:59:07 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Maenner.sind.wie.Schokolade.1999.GERMAN.1080p.HDTV.x264-TVPOOL</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/a780d816879eee7546a63031b33660e5287b2193</guid>
+   <link>https://scenenzb.com/getnzb/a780d816879eee7546a63031b33660e5287b2193.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/a780d816879eee7546a63031b33660e5287b2193#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 01:03:46 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Maenner.sind.wie.Schokolade.1999.GERMAN.1080p.HDTV.x264-TVPOOL</description>
+   <enclosure url="https://scenenzb.com/getnzb/a780d816879eee7546a63031b33660e5287b2193.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3635733383" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3635733383"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="40"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:57:14 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Ich.verkaufe.deine.Heimat.GERMAN.2019.HDTVRip.x264-Pumuck</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/7c92b11962b21fe11666611c902a882f97211385</guid>
+   <link>https://scenenzb.com/getnzb/7c92b11962b21fe11666611c902a882f97211385.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/7c92b11962b21fe11666611c902a882f97211385#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 00:57:15 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Ich.verkaufe.deine.Heimat.GERMAN.2019.HDTVRip.x264-Pumuck</description>
+   <enclosure url="https://scenenzb.com/getnzb/7c92b11962b21fe11666611c902a882f97211385.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="638185499" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="638185499"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="14"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:48:25 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Ich.verkaufe.deine.Heimat.2019.GERMAN.720p.HDTV.x264-Pumuck</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/8bc7d76bd58f71518502bc0e1b344bc8d7787e84</guid>
+   <link>https://scenenzb.com/getnzb/8bc7d76bd58f71518502bc0e1b344bc8d7787e84.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/8bc7d76bd58f71518502bc0e1b344bc8d7787e84#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 00:57:02 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Ich.verkaufe.deine.Heimat.2019.GERMAN.720p.HDTV.x264-Pumuck</description>
+   <enclosure url="https://scenenzb.com/getnzb/8bc7d76bd58f71518502bc0e1b344bc8d7787e84.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1693962179" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="1693962179"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="23"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:47:01 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>House.of.Manson.Once.Upon.a.Time.in.L.A.GERMAN.2014.AC3.BDRip.x264-UNiVERSUM</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/2132d2f431ff0e686a44dfa1f0709f7df0cb197b</guid>
+   <link>https://scenenzb.com/getnzb/2132d2f431ff0e686a44dfa1f0709f7df0cb197b.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/2132d2f431ff0e686a44dfa1f0709f7df0cb197b#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 00:49:39 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>House.of.Manson.Once.Upon.a.Time.in.L.A.GERMAN.2014.AC3.BDRip.x264-UNiVERSUM</description>
+   <enclosure url="https://scenenzb.com/getnzb/2132d2f431ff0e686a44dfa1f0709f7df0cb197b.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="827124596" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="827124596"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/7131622-cover.jpg"/>
+   <newznab:attr name="files" value="16"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="7131622"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:45:35 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>House.of.Manson.Once.Upon.a.Time.in.L.A.2014.GERMAN.DL.1080p.BluRay.x264-UNiVERSUM</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/1049c0b2ab0e41e439e8822c7f8e504446b4c301</guid>
+   <link>https://scenenzb.com/getnzb/1049c0b2ab0e41e439e8822c7f8e504446b4c301.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/1049c0b2ab0e41e439e8822c7f8e504446b4c301#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 00:49:56 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>House.of.Manson.Once.Upon.a.Time.in.L.A.2014.GERMAN.DL.1080p.BluRay.x264-UNiVERSUM</description>
+   <enclosure url="https://scenenzb.com/getnzb/1049c0b2ab0e41e439e8822c7f8e504446b4c301.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="6293150149" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="6293150149"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="64"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:40:30 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>House.of.Manson.Once.Upon.a.Time.in.L.A.2014.GERMAN.720p.BluRay.x264-UNiVERSUM</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/c3d3504dada6fdeabb46cefda7d7060562b5a41f</guid>
+   <link>https://scenenzb.com/getnzb/c3d3504dada6fdeabb46cefda7d7060562b5a41f.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/c3d3504dada6fdeabb46cefda7d7060562b5a41f#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 00:39:32 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>House.of.Manson.Once.Upon.a.Time.in.L.A.2014.GERMAN.720p.BluRay.x264-UNiVERSUM</description>
+   <enclosure url="https://scenenzb.com/getnzb/c3d3504dada6fdeabb46cefda7d7060562b5a41f.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="2603786518" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="2603786518"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="31"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:34:40 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Herz.in.Flammen.2002.GERMAN.HDTVRiP.x264-TVPOOL</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/49a1a304c32c01652c6eef20631b1c63fabdca5c</guid>
+   <link>https://scenenzb.com/getnzb/49a1a304c32c01652c6eef20631b1c63fabdca5c.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/49a1a304c32c01652c6eef20631b1c63fabdca5c#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 00:35:50 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Herz.in.Flammen.2002.GERMAN.HDTVRiP.x264-TVPOOL</description>
+   <enclosure url="https://scenenzb.com/getnzb/49a1a304c32c01652c6eef20631b1c63fabdca5c.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="823105722" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="823105722"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="16"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0322546"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:32:25 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Herz.in.Flammen.2002.GERMAN.1080p.HDTV.x264-TVPOOL</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/bfa7fe99bf3520cfacdf1aa986c052ed1f852585</guid>
+   <link>https://scenenzb.com/getnzb/bfa7fe99bf3520cfacdf1aa986c052ed1f852585.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/bfa7fe99bf3520cfacdf1aa986c052ed1f852585#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 00:33:20 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Herz.in.Flammen.2002.GERMAN.1080p.HDTV.x264-TVPOOL</description>
+   <enclosure url="https://scenenzb.com/getnzb/bfa7fe99bf3520cfacdf1aa986c052ed1f852585.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3780641789" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3780641789"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="42"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0322546"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:29:03 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Fussball.1.Bundesliga.2019-2020.14.Spieltag.Borussia.Mgladbach.vs.FC.Bayern.Muenchen.GERMAN.HDTVRip.x264-SAPH1R</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/6e24ee836be038c1fb4211a66bb26ef97bac5529</guid>
+   <link>https://scenenzb.com/getnzb/6e24ee836be038c1fb4211a66bb26ef97bac5529.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/6e24ee836be038c1fb4211a66bb26ef97bac5529#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 00:29:38 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Fussball.1.Bundesliga.2019-2020.14.Spieltag.Borussia.Mgladbach.vs.FC.Bayern.Muenchen.GERMAN.HDTVRip.x264-SAPH1R</description>
+   <enclosure url="https://scenenzb.com/getnzb/6e24ee836be038c1fb4211a66bb26ef97bac5529.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="1055321100" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1055321100"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="18"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:18:02 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Fussball.1.Bundesliga.2019-2020.14.Spieltag.Borussia.Mgladbach.vs.FC.Bayern.Muenchen.GERMAN.720p.HDTV.x264-SAPH1R</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/d385e24b361063a999f6f486a05bf1f208812594</guid>
+   <link>https://scenenzb.com/getnzb/d385e24b361063a999f6f486a05bf1f208812594.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/d385e24b361063a999f6f486a05bf1f208812594#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 00:27:34 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Fussball.1.Bundesliga.2019-2020.14.Spieltag.Borussia.Mgladbach.vs.FC.Bayern.Muenchen.GERMAN.720p.HDTV.x264-SAPH1R</description>
+   <enclosure url="https://scenenzb.com/getnzb/d385e24b361063a999f6f486a05bf1f208812594.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3399202468" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3399202468"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="38"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="6"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:14:27 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Ewiger.Winter.German.2018.BDRiP.x264-PL3X</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/fb45ccc41551ecf7409f27c198b59af1a2a6cd88</guid>
+   <link>https://scenenzb.com/getnzb/fb45ccc41551ecf7409f27c198b59af1a2a6cd88.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/fb45ccc41551ecf7409f27c198b59af1a2a6cd88#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 00:21:25 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Ewiger.Winter.German.2018.BDRiP.x264-PL3X</description>
+   <enclosure url="https://scenenzb.com/getnzb/fb45ccc41551ecf7409f27c198b59af1a2a6cd88.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="960960466" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="960960466"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/6387232-cover.jpg"/>
+   <newznab:attr name="files" value="17"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="6387232"/>
+   <newznab:attr name="grabs" value="5"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:11:33 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Ewiger.Winter.2018.German.720p.BluRay.x264-PL3X</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/1b8621a03938b0131ed0b79056c3fcdcdfbe18fa</guid>
+   <link>https://scenenzb.com/getnzb/1b8621a03938b0131ed0b79056c3fcdcdfbe18fa.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/1b8621a03938b0131ed0b79056c3fcdcdfbe18fa#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 00:19:36 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Ewiger.Winter.2018.German.720p.BluRay.x264-PL3X</description>
+   <enclosure url="https://scenenzb.com/getnzb/1b8621a03938b0131ed0b79056c3fcdcdfbe18fa.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="2712942355" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="2712942355"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="32"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:08:21 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Ewiger.Winter.2018.German.1080p.BluRay.x264-PL3X</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/81dcf62c62f232df7c1815dc5b5fe124aab972f9</guid>
+   <link>https://scenenzb.com/getnzb/81dcf62c62f232df7c1815dc5b5fe124aab972f9.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/81dcf62c62f232df7c1815dc5b5fe124aab972f9#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 00:14:07 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Ewiger.Winter.2018.German.1080p.BluRay.x264-PL3X</description>
+   <enclosure url="https://scenenzb.com/getnzb/81dcf62c62f232df7c1815dc5b5fe124aab972f9.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="4631184563" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="4631184563"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="49"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 10 Dec 2019 00:02:30 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>European.Tour.2019.Nedbank.Golf.Challenge.Finalrunde.GERMAN.DL.720p.HDTV.x264-aWake</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/cbe4447d30069172f92f89f9388f0253f67c1438</guid>
+   <link>https://scenenzb.com/getnzb/cbe4447d30069172f92f89f9388f0253f67c1438.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/cbe4447d30069172f92f89f9388f0253f67c1438#comments</comments>
+   <pubDate>Tue, 10 Dec 2019 00:04:15 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>European.Tour.2019.Nedbank.Golf.Challenge.Finalrunde.GERMAN.DL.720p.HDTV.x264-aWake</description>
+   <enclosure url="https://scenenzb.com/getnzb/cbe4447d30069172f92f89f9388f0253f67c1438.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="2970504395" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="2970504395"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="35"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 23:54:19 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Doctor.Sleeps.Erwachen.German.DL.LD.720p.WEBRip.x264.iNTERNAL-PRD</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/9bee8470f49e7fc2288c3f197a1edb5cdfb07824</guid>
+   <link>https://scenenzb.com/getnzb/9bee8470f49e7fc2288c3f197a1edb5cdfb07824.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/9bee8470f49e7fc2288c3f197a1edb5cdfb07824#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 23:55:54 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Doctor.Sleeps.Erwachen.German.DL.LD.720p.WEBRip.x264.iNTERNAL-PRD</description>
+   <enclosure url="https://scenenzb.com/getnzb/9bee8470f49e7fc2288c3f197a1edb5cdfb07824.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="4270511702" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="4270511702"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="46"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="9"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 23:45:46 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Die.Luemmel.von.der.ersten.Bank.Teil.2.Zum.Teufel.mit.der.Penne.1968.GERMAN.720p.HDTV.x264-TMSF</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/75c4ba7054c540d39c9e518a0dd6c3ea3496f046</guid>
+   <link>https://scenenzb.com/getnzb/75c4ba7054c540d39c9e518a0dd6c3ea3496f046.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/75c4ba7054c540d39c9e518a0dd6c3ea3496f046#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 23:44:45 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Die.Luemmel.von.der.ersten.Bank.Teil.2.Zum.Teufel.mit.der.Penne.1968.GERMAN.720p.HDTV.x264-TMSF</description>
+   <enclosure url="https://scenenzb.com/getnzb/75c4ba7054c540d39c9e518a0dd6c3ea3496f046.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3472524499" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3472524499"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="39"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="3"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 23:36:38 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Der.durch.die.Wand.geht.GERMAN.2016.HDTVRip.x264-Pumuck</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/95e3c05029ff0ecc55f151183c7ad10a484f95cc</guid>
+   <link>https://scenenzb.com/getnzb/95e3c05029ff0ecc55f151183c7ad10a484f95cc.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/95e3c05029ff0ecc55f151183c7ad10a484f95cc#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 23:38:43 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Der.durch.die.Wand.geht.GERMAN.2016.HDTVRip.x264-Pumuck</description>
+   <enclosure url="https://scenenzb.com/getnzb/95e3c05029ff0ecc55f151183c7ad10a484f95cc.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="811713611" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="811713611"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0053047-cover.jpg"/>
+   <newznab:attr name="files" value="16"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="imdb" value="0053047"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 23:33:27 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Der.durch.die.Wand.geht.2016.GERMAN.720p.HDTV.x264-Pumuck</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/df542739ad9f73b39d1840fecfc6a54b6ea253da</guid>
+   <link>https://scenenzb.com/getnzb/df542739ad9f73b39d1840fecfc6a54b6ea253da.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/df542739ad9f73b39d1840fecfc6a54b6ea253da#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 23:36:13 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Der.durch.die.Wand.geht.2016.GERMAN.720p.HDTV.x264-Pumuck</description>
+   <enclosure url="https://scenenzb.com/getnzb/df542739ad9f73b39d1840fecfc6a54b6ea253da.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="2066572813" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="2066572813"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="27"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 23:30:32 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Ad.Astra.Zu.den.Sternen.2019.German.DL.DTSD.1080p.BluRay.x264-GSG9</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/5151a35ebfa6c673e381a707c802c8ac2dfcd94a</guid>
+   <link>https://scenenzb.com/getnzb/5151a35ebfa6c673e381a707c802c8ac2dfcd94a.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/5151a35ebfa6c673e381a707c802c8ac2dfcd94a#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 23:32:20 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Ad.Astra.Zu.den.Sternen.2019.German.DL.DTSD.1080p.BluRay.x264-GSG9</description>
+   <enclosure url="https://scenenzb.com/getnzb/5151a35ebfa6c673e381a707c802c8ac2dfcd94a.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="11080092042" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="11080092042"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="106"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="31"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 23:18:21 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Ad.Astra.Zu.den.Sternen.2019.German.AC3D.BDRip.x264-GSG9</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/b0f10500f751ba9528a858dd987a29fbdd39a287</guid>
+   <link>https://scenenzb.com/getnzb/b0f10500f751ba9528a858dd987a29fbdd39a287.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/b0f10500f751ba9528a858dd987a29fbdd39a287#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 23:09:55 +0100</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Ad.Astra.Zu.den.Sternen.2019.German.AC3D.BDRip.x264-GSG9</description>
+   <enclosure url="https://scenenzb.com/getnzb/b0f10500f751ba9528a858dd987a29fbdd39a287.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="979347114" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="979347114"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="17"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 23:00:10 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>25.Jahre.Feste.Shows.Das.grosse.Wiedersehen.2019.GERMAN.720p.HDTV.x264-aWake</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/b45ddeef70f844c0d4f39152c2016001af7c141b</guid>
+   <link>https://scenenzb.com/getnzb/b45ddeef70f844c0d4f39152c2016001af7c141b.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/b45ddeef70f844c0d4f39152c2016001af7c141b#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 23:07:37 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>25.Jahre.Feste.Shows.Das.grosse.Wiedersehen.2019.GERMAN.720p.HDTV.x264-aWake</description>
+   <enclosure url="https://scenenzb.com/getnzb/b45ddeef70f844c0d4f39152c2016001af7c141b.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="9224293290" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="9224293290"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="90"/>
+   <newznab:attr name="poster" value="jhknjcxy8a9 &lt;dabmnmy@ooiqas.cd&gt;"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 22:50:15 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>American.Gangster.EXTENDED.2007.German.DL.1080p.BluRay.x264-iNKLUSiON</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/9198fcdf643a3ce96cb1c75382f3c1923951e2f5</guid>
+   <link>https://scenenzb.com/getnzb/9198fcdf643a3ce96cb1c75382f3c1923951e2f5.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/9198fcdf643a3ce96cb1c75382f3c1923951e2f5#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 21:30:59 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>American.Gangster.EXTENDED.2007.German.DL.1080p.BluRay.x264-iNKLUSiON</description>
+   <enclosure url="https://scenenzb.com/getnzb/9198fcdf643a3ce96cb1c75382f3c1923951e2f5.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="9929864981" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="9929864981"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="98"/>
+   <newznab:attr name="poster" value="&quot;n15AmMEu2r&quot; &lt;B6yIhhwEF3ea@BKU1QBQ.k9p&gt;"/>
+   <newznab:attr name="grabs" value="10"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="-2"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 20:07:47 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+  <item>
+   <title>Die.Todesstrahlen.des.Dr.Mabuse.1964.German.1080p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/ba34cd138ff85006ab5552eb832a53740ebca4f6</guid>
+   <link>https://scenenzb.com/getnzb/ba34cd138ff85006ab5552eb832a53740ebca4f6.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/ba34cd138ff85006ab5552eb832a53740ebca4f6#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 21:30:03 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Die.Todesstrahlen.des.Dr.Mabuse.1964.German.1080p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/ba34cd138ff85006ab5552eb832a53740ebca4f6.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="8288035490" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="8288035490"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="89"/>
+   <newznab:attr name="poster" value="&quot;jbinup&quot; &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="imdb" value="0058667"/>
+   <newznab:attr name="grabs" value="6"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 19:11:56 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+  <item>
+   <title>Unknown.Identity.German.DL.1080p.BluRay.x264-EmpireHD</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/87ffef37b2fdab0c9e3386f3f749ee4dfb59e57a</guid>
+   <link>https://scenenzb.com/getnzb/87ffef37b2fdab0c9e3386f3f749ee4dfb59e57a.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/87ffef37b2fdab0c9e3386f3f749ee4dfb59e57a#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 21:30:41 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Unknown.Identity.German.DL.1080p.BluRay.x264-EmpireHD</description>
+   <enclosure url="https://scenenzb.com/getnzb/87ffef37b2fdab0c9e3386f3f749ee4dfb59e57a.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="10448660276" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="10448660276"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/1401152-cover.jpg"/>
+   <newznab:attr name="files" value="108"/>
+   <newznab:attr name="poster" value="&quot;jbinup&quot; &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="imdb" value="1401152"/>
+   <newznab:attr name="grabs" value="7"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 19:06:01 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+  <item>
+   <title>Chronicle.Wozu.bist.du.faehig.2012.German.DL.1080p.BluRay.x264-DETAiLS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/ccfdc6cecb65da9437bdc6ffed5a00e21b558036</guid>
+   <link>https://scenenzb.com/getnzb/ccfdc6cecb65da9437bdc6ffed5a00e21b558036.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/ccfdc6cecb65da9437bdc6ffed5a00e21b558036#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 21:31:13 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Chronicle.Wozu.bist.du.faehig.2012.German.DL.1080p.BluRay.x264-DETAiLS</description>
+   <enclosure url="https://scenenzb.com/getnzb/ccfdc6cecb65da9437bdc6ffed5a00e21b558036.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="9127308830" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="9127308830"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="96"/>
+   <newznab:attr name="poster" value="&quot;jbinup&quot; &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="grabs" value="12"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 19:02:07 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+  <item>
+   <title>Maenner.sind.wie.Schokolade.1999.GERMAN.1080p.HDTV.x264-TVPOOL</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/4d563508c3f86544c504c873273c2237379ee92d</guid>
+   <link>https://scenenzb.com/getnzb/4d563508c3f86544c504c873273c2237379ee92d.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/4d563508c3f86544c504c873273c2237379ee92d#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 21:32:10 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Maenner.sind.wie.Schokolade.1999.GERMAN.1080p.HDTV.x264-TVPOOL</description>
+   <enclosure url="https://scenenzb.com/getnzb/4d563508c3f86544c504c873273c2237379ee92d.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="3898123825" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="3898123825"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="50"/>
+   <newznab:attr name="poster" value="&quot;jbinup&quot; &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="grabs" value="6"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 19:00:39 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+  <item>
+   <title>Christmas.Planner.Was.fuer.eine.Bescherung.2012.German.DL.1080p.BluRay.x264-ENCOUNTERS</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/0701bceb6df9483cd3eaee80cb6725583dd847b2</guid>
+   <link>https://scenenzb.com/getnzb/0701bceb6df9483cd3eaee80cb6725583dd847b2.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/0701bceb6df9483cd3eaee80cb6725583dd847b2#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 21:29:24 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Christmas.Planner.Was.fuer.eine.Bescherung.2012.German.DL.1080p.BluRay.x264-ENCOUNTERS</description>
+   <enclosure url="https://scenenzb.com/getnzb/0701bceb6df9483cd3eaee80cb6725583dd847b2.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="5779635827" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="5779635827"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="67"/>
+   <newznab:attr name="poster" value="&quot;jbinup&quot; &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="grabs" value="6"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 18:58:27 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+  <item>
+   <title>Jagt.den.Fuchs.1966.German.1080p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/82b35c7b4f5324825bc900299d050b0d4f1dd0a1</guid>
+   <link>https://scenenzb.com/getnzb/82b35c7b4f5324825bc900299d050b0d4f1dd0a1.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/82b35c7b4f5324825bc900299d050b0d4f1dd0a1#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 21:31:33 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Jagt.den.Fuchs.1966.German.1080p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/82b35c7b4f5324825bc900299d050b0d4f1dd0a1.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="9684153824" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="9684153824"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="102"/>
+   <newznab:attr name="poster" value="&quot;jbinup&quot; &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="grabs" value="6"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 18:53:50 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+  <item>
+   <title>Das.Testament.des.Dr.Mabuse.1962.German.1080p.BluRay.x264-SPiCY</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/931ade4423ef21617d45428b41bc6770c4fb50c2</guid>
+   <link>https://scenenzb.com/getnzb/931ade4423ef21617d45428b41bc6770c4fb50c2.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/931ade4423ef21617d45428b41bc6770c4fb50c2#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 21:30:33 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Das.Testament.des.Dr.Mabuse.1962.German.1080p.BluRay.x264-SPiCY</description>
+   <enclosure url="https://scenenzb.com/getnzb/931ade4423ef21617d45428b41bc6770c4fb50c2.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="8298956131" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="8298956131"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="89"/>
+   <newznab:attr name="poster" value="&quot;jbinup&quot; &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="imdb" value="0056573"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 18:50:31 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+  <item>
+   <title>Allein.an.der.Front.2018.GERMAN.1080p.BluRay.x264-UNiVERSUM</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/d200664a47614af50b9460a9aed2fb5493ee1dee</guid>
+   <link>https://scenenzb.com/getnzb/d200664a47614af50b9460a9aed2fb5493ee1dee.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/d200664a47614af50b9460a9aed2fb5493ee1dee#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 21:30:17 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Allein.an.der.Front.2018.GERMAN.1080p.BluRay.x264-UNiVERSUM</description>
+   <enclosure url="https://scenenzb.com/getnzb/d200664a47614af50b9460a9aed2fb5493ee1dee.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="8048721127" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="8048721127"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="87"/>
+   <newznab:attr name="poster" value="&quot;jbinup&quot; &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 18:47:07 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+  <item>
+   <title>Christina.Noble.Die.Mutter.der.Niemandskinder.2014.German.DL.1080p.BluRay.x264-ROOR</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/98cc6e2a3ebec4e4c563a4bf58a4f3a8b4f470bd</guid>
+   <link>https://scenenzb.com/getnzb/98cc6e2a3ebec4e4c563a4bf58a4f3a8b4f470bd.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6</link>
+   <comments>https://scenenzb.com/details/98cc6e2a3ebec4e4c563a4bf58a4f3a8b4f470bd#comments</comments>
+   <pubDate>Mon, 09 Dec 2019 21:31:44 +0100</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Christina.Noble.Die.Mutter.der.Niemandskinder.2014.German.DL.1080p.BluRay.x264-ROOR</description>
+   <enclosure url="https://scenenzb.com/getnzb/98cc6e2a3ebec4e4c563a4bf58a4f3a8b4f470bd.nzb&amp;i=5313&amp;r=51c296342e9745e60f629554464870a6" length="7290194777" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="7290194777"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/no-cover.jpg"/>
+   <newznab:attr name="files" value="81"/>
+   <newznab:attr name="poster" value="&quot;jbinup&quot; &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Mon, 09 Dec 2019 18:43:33 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.frogs"/>
+  </item>
+ </channel>
+</rss>

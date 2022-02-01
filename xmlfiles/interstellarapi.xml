@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:newznab="http://www.newznab.com/DTD/2010/feeds/attributes/" encoding="utf-8">
+ <channel>
+  <atom:link href="https://scenenzb.com/api" rel="self" type="application/rss+xml"/>
+  <title>SceneNZB</title>
+  <description>SceneNZB API Details</description>
+  <link>https://scenenzb.com/</link>
+  <language>en-gb</language>
+  <webMaster>scenenzbindexer@protonmail.ch SceneNZB</webMaster>
+  <category>usenet,nzbs,cms,community</category>
+  <generator>nZEDb</generator>
+  <ttl>10</ttl>
+  <docs>https://scenenzb.com/apihelp/</docs>
+  <image url="https://scenenzb.com/themes/shared/img/logo.png" title="SceneNZB" link="https://scenenzb.com/" description="Visit SceneNZB - "/>
+  <newznab:response offset="0" total="8"/>
+  <item>
+   <title>Interstellar.2014.German.DTS.DL.1080p.BluRay.x264-HQX</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/d0e6055c087f38491247315665cf2c36127a0de6</guid>
+   <link>https://scenenzb.com/getnzb/d0e6055c087f38491247315665cf2c36127a0de6.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43</link>
+   <comments>https://scenenzb.com/details/d0e6055c087f38491247315665cf2c36127a0de6#comments</comments>
+   <pubDate>Wed, 10 Apr 2019 18:05:35 +0200</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Interstellar.2014.German.DTS.DL.1080p.BluRay.x264-HQX</description>
+   <enclosure url="https://scenenzb.com/getnzb/d0e6055c087f38491247315665cf2c36127a0de6.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43" length="15840254492" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="15840254492"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0816692-cover.jpg"/>
+   <newznab:attr name="files" value="155"/>
+   <newznab:attr name="poster" value="&lt;&lt;&lt; Hg2Yqjmoy8vf7Q &gt;&gt;&gt; &lt;ipp5ov3wikps__w@4af7c_fivr.com&gt;"/>
+   <newznab:attr name="imdb" value="0816692"/>
+   <newznab:attr name="grabs" value="32"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 09 Apr 2019 03:04:09 +0200"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Interstellar.2014.German.720p.BluRay.x264-CONTRiBUTiON</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/7e1bc3b8f0682d8f41283f4911ee63b645e29b65</guid>
+   <link>https://scenenzb.com/getnzb/7e1bc3b8f0682d8f41283f4911ee63b645e29b65.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43</link>
+   <comments>https://scenenzb.com/details/7e1bc3b8f0682d8f41283f4911ee63b645e29b65#comments</comments>
+   <pubDate>Mon, 01 Apr 2019 22:24:04 +0200</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Interstellar.2014.German.720p.BluRay.x264-CONTRiBUTiON</description>
+   <enclosure url="https://scenenzb.com/getnzb/7e1bc3b8f0682d8f41283f4911ee63b645e29b65.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43" length="5128473636" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="5128473636"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0816692-cover.jpg"/>
+   <newznab:attr name="files" value="56"/>
+   <newznab:attr name="poster" value="&lt;&lt;&lt; goD27_hFqPMnma &gt;&gt;&gt; &lt;52axk4h_yknqytu@r58qvmqe2r.com&gt;"/>
+   <newznab:attr name="imdb" value="0816692"/>
+   <newznab:attr name="grabs" value="9"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Thu, 28 Feb 2019 21:09:23 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Interstellar.2014.DVDRIP.GERMAN.XviD-WOLF-5</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/9250edb33e8fc83a1bffab6de3bb2c4e73234bc6</guid>
+   <link>https://scenenzb.com/getnzb/9250edb33e8fc83a1bffab6de3bb2c4e73234bc6.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43</link>
+   <comments>https://scenenzb.com/details/9250edb33e8fc83a1bffab6de3bb2c4e73234bc6#comments</comments>
+   <pubDate>Sun, 21 Jul 2019 02:52:21 +0200</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Interstellar.2014.DVDRIP.GERMAN.XviD-WOLF-5</description>
+   <enclosure url="https://scenenzb.com/getnzb/9250edb33e8fc83a1bffab6de3bb2c4e73234bc6.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43" length="1033249699" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1033249699"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0816692-cover.jpg"/>
+   <newznab:attr name="files" value="27"/>
+   <newznab:attr name="poster" value="Germanmovies &lt;Germanmovie@JBinUp.local&gt;"/>
+   <newznab:attr name="imdb" value="0816692"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="-1"/>
+   <newznab:attr name="usenetdate" value="Tue, 03 Mar 2015 16:32:21 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Interstellar.2014.DVDRIP.GERMAN.XviD-WOLF-2</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/3f6f644f70e01e6be47e9c3ec56c7f79613d9c34</guid>
+   <link>https://scenenzb.com/getnzb/3f6f644f70e01e6be47e9c3ec56c7f79613d9c34.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43</link>
+   <comments>https://scenenzb.com/details/3f6f644f70e01e6be47e9c3ec56c7f79613d9c34#comments</comments>
+   <pubDate>Sun, 21 Jul 2019 03:12:05 +0200</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Interstellar.2014.DVDRIP.GERMAN.XviD-WOLF-2</description>
+   <enclosure url="https://scenenzb.com/getnzb/3f6f644f70e01e6be47e9c3ec56c7f79613d9c34.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43" length="1033511468" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1033511468"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0816692-cover.jpg"/>
+   <newznab:attr name="files" value="28"/>
+   <newznab:attr name="poster" value="filmstart &lt;filmstart@sabris.de&gt;"/>
+   <newznab:attr name="imdb" value="0816692"/>
+   <newznab:attr name="info" value="https://scenenzb.com/api?t=info&amp;id=3f6f644f70e01e6be47e9c3ec56c7f79613d9c34&amp;r=f5fe3227ebb0e44d9ec37627f4900c43"/>
+   <newznab:attr name="grabs" value="1"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="-1"/>
+   <newznab:attr name="usenetdate" value="Fri, 27 Feb 2015 18:15:27 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.cores"/>
+  </item>
+  <item>
+   <title>Interstellar.2014.DVDRIP.XVID-AUTOPSY.German-2</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/f83f057c54a9d5274be9a88e476d6a627fa44b5e</guid>
+   <link>https://scenenzb.com/getnzb/f83f057c54a9d5274be9a88e476d6a627fa44b5e.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43</link>
+   <comments>https://scenenzb.com/details/f83f057c54a9d5274be9a88e476d6a627fa44b5e#comments</comments>
+   <pubDate>Sun, 21 Jul 2019 02:51:33 +0200</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Interstellar.2014.DVDRIP.XVID-AUTOPSY.German-2</description>
+   <enclosure url="https://scenenzb.com/getnzb/f83f057c54a9d5274be9a88e476d6a627fa44b5e.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43" length="1235538570" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1235538570"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0816692-cover.jpg"/>
+   <newznab:attr name="files" value="52"/>
+   <newznab:attr name="poster" value="omikelaury &lt;JBinUp@JBinUp.local&gt;"/>
+   <newznab:attr name="imdb" value="0816692"/>
+   <newznab:attr name="grabs" value="4"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="-1"/>
+   <newznab:attr name="usenetdate" value="Mon, 02 Feb 2015 09:28:47 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Interstellar.2014.DVDRIP.XVID-TASTE.German-2</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/ebbb0fde539bd3edb878840656af7c8e773d962a</guid>
+   <link>https://scenenzb.com/getnzb/ebbb0fde539bd3edb878840656af7c8e773d962a.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43</link>
+   <comments>https://scenenzb.com/details/ebbb0fde539bd3edb878840656af7c8e773d962a#comments</comments>
+   <pubDate>Sun, 21 Jul 2019 03:13:01 +0200</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Interstellar.2014.DVDRIP.XVID-TASTE.German-2</description>
+   <enclosure url="https://scenenzb.com/getnzb/ebbb0fde539bd3edb878840656af7c8e773d962a.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43" length="1232022040" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1232022040"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0816692-cover.jpg"/>
+   <newznab:attr name="files" value="29"/>
+   <newznab:attr name="poster" value="tastecrow &lt;falamarens@freyd.com&gt;"/>
+   <newznab:attr name="imdb" value="0816692"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="-1"/>
+   <newznab:attr name="usenetdate" value="Sat, 24 Jan 2015 02:40:55 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.movies"/>
+  </item>
+  <item>
+   <title>Interstellar.2014.DVDRIP.R5.X264-ROVER.German-3</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/e8c305a37d2170f9cfa44219f9a73df7b4189c37</guid>
+   <link>https://scenenzb.com/getnzb/e8c305a37d2170f9cfa44219f9a73df7b4189c37.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43</link>
+   <comments>https://scenenzb.com/details/e8c305a37d2170f9cfa44219f9a73df7b4189c37#comments</comments>
+   <pubDate>Sun, 21 Jul 2019 02:59:51 +0200</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>Interstellar.2014.DVDRIP.R5.X264-ROVER.German-3</description>
+   <enclosure url="https://scenenzb.com/getnzb/e8c305a37d2170f9cfa44219f9a73df7b4189c37.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43" length="1233408192" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1233408192"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0816692-cover.jpg"/>
+   <newznab:attr name="files" value="37"/>
+   <newznab:attr name="poster" value="apaungapost &lt;apaungapost@noheres.com&gt;"/>
+   <newznab:attr name="imdb" value="0816692"/>
+   <newznab:attr name="info" value="https://scenenzb.com/api?t=info&amp;id=e8c305a37d2170f9cfa44219f9a73df7b4189c37&amp;r=f5fe3227ebb0e44d9ec37627f4900c43"/>
+   <newznab:attr name="grabs" value="1"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="-1"/>
+   <newznab:attr name="usenetdate" value="Tue, 13 Jan 2015 20:37:30 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.hdtv.german"/>
+  </item>
+  <item>
+   <title>Interstellar.2014.720p.Web-DL.R5.XVID.German</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/f48b3f3be3041248b002f1f74bd71db551b4275c</guid>
+   <link>https://scenenzb.com/getnzb/f48b3f3be3041248b002f1f74bd71db551b4275c.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43</link>
+   <comments>https://scenenzb.com/details/f48b3f3be3041248b002f1f74bd71db551b4275c#comments</comments>
+   <pubDate>Sun, 21 Jul 2019 02:50:21 +0200</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Interstellar.2014.720p.Web-DL.R5.XVID.German</description>
+   <enclosure url="https://scenenzb.com/getnzb/f48b3f3be3041248b002f1f74bd71db551b4275c.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43" length="1215316636" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="1215316636"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/0816692-cover.jpg"/>
+   <newznab:attr name="files" value="29"/>
+   <newznab:attr name="poster" value="raagmovies &lt;raagmovie@netv.net&gt;"/>
+   <newznab:attr name="imdb" value="0816692"/>
+   <newznab:attr name="grabs" value="2"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="-1"/>
+   <newznab:attr name="usenetdate" value="Mon, 10 Nov 2014 19:21:51 +0100"/>
+   <newznab:attr name="group" value="alt.binaries.b4e"/>
+  </item>
+ </channel>
+</rss>

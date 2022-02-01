@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:newznab="http://www.newznab.com/DTD/2010/feeds/attributes/" encoding="utf-8">
+ <channel>
+  <atom:link href="https://scenenzb.com/api" rel="self" type="application/rss+xml"/>
+  <title>SceneNZB</title>
+  <description>SceneNZB API Details</description>
+  <link>https://scenenzb.com/</link>
+  <language>en-gb</language>
+  <webMaster>scenenzbindexer@protonmail.ch SceneNZB</webMaster>
+  <category>usenet,nzbs,cms,community</category>
+  <generator>nZEDb</generator>
+  <ttl>10</ttl>
+  <docs>https://scenenzb.com/apihelp/</docs>
+  <image url="https://scenenzb.com/themes/shared/img/logo.png" title="SceneNZB" link="https://scenenzb.com/" description="Visit SceneNZB - "/>
+  <newznab:response offset="0" total="3"/>
+  <item>
+   <title>Inception.2010.German.DTSD.5.1.DL.1080p.BluRay.READ.NFO.x264-Pate</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/f106bc07f7bac5cbac2e38f619d89ae70397cc2a</guid>
+   <link>https://scenenzb.com/getnzb/f106bc07f7bac5cbac2e38f619d89ae70397cc2a.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43</link>
+   <comments>https://scenenzb.com/details/f106bc07f7bac5cbac2e38f619d89ae70397cc2a#comments</comments>
+   <pubDate>Mon, 21 Oct 2019 01:41:31 +0200</pubDate>
+   <category>Movies &gt; HD</category>
+   <description>Inception.2010.German.DTSD.5.1.DL.1080p.BluRay.READ.NFO.x264-Pate</description>
+   <enclosure url="https://scenenzb.com/getnzb/f106bc07f7bac5cbac2e38f619d89ae70397cc2a.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43" length="15813232292" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2040"/>
+   <newznab:attr name="size" value="15813232292"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/1375666-cover.jpg"/>
+   <newznab:attr name="files" value="155"/>
+   <newznab:attr name="poster" value="&lt;&lt;&lt; jKiMcCJ116ERXo &gt;&gt;&gt; &lt;a84a2wfyv15rb5s@tkj3pexzpsonfb.com&gt;"/>
+   <newznab:attr name="imdb" value="1375666"/>
+   <newznab:attr name="grabs" value="12"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Tue, 15 Oct 2019 22:46:27 +0200"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>Inception.2010.German.DL.2160p.UHD.BluRay.x265-ENDSTATiON</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/2ceefc87f70f102852e670f1c60176b461baf20d</guid>
+   <link>https://scenenzb.com/getnzb/2ceefc87f70f102852e670f1c60176b461baf20d.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43</link>
+   <comments>https://scenenzb.com/details/2ceefc87f70f102852e670f1c60176b461baf20d#comments</comments>
+   <pubDate>Fri, 21 Jun 2019 23:57:30 +0200</pubDate>
+   <category>Movies &gt; UHD</category>
+   <description>Inception.2010.German.DL.2160p.UHD.BluRay.x265-ENDSTATiON</description>
+   <enclosure url="https://scenenzb.com/getnzb/2ceefc87f70f102852e670f1c60176b461baf20d.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43" length="29100732444" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2045"/>
+   <newznab:attr name="size" value="29100732444"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/1375666-cover.jpg"/>
+   <newznab:attr name="files" value="278"/>
+   <newznab:attr name="poster" value="&lt;&lt;&lt; U5ukoCgbA8_v2w &gt;&gt;&gt; &lt;dojn75qibewcq3n@f_xzmygl5t.com&gt;"/>
+   <newznab:attr name="imdb" value="1375666"/>
+   <newznab:attr name="grabs" value="21"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="10"/>
+   <newznab:attr name="usenetdate" value="Fri, 21 Jun 2019 21:20:32 +0200"/>
+   <newznab:attr name="group" value="alt.binaries.ath"/>
+  </item>
+  <item>
+   <title>012.Inception.German.2010.AC3.DVDRip.XviD-HVC</title>
+   <guid isPermaLink="true">https://scenenzb.com/details/b4fb79f2aca602b8c52d307fb23452ff9f8589dc</guid>
+   <link>https://scenenzb.com/getnzb/b4fb79f2aca602b8c52d307fb23452ff9f8589dc.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43</link>
+   <comments>https://scenenzb.com/details/b4fb79f2aca602b8c52d307fb23452ff9f8589dc#comments</comments>
+   <pubDate>Sun, 21 Jul 2019 01:54:16 +0200</pubDate>
+   <category>Movies &gt; SD</category>
+   <description>012.Inception.German.2010.AC3.DVDRip.XviD-HVC</description>
+   <enclosure url="https://scenenzb.com/getnzb/b4fb79f2aca602b8c52d307fb23452ff9f8589dc.nzb&amp;i=5349&amp;r=f5fe3227ebb0e44d9ec37627f4900c43" length="1701152936" type="application/x-nzb"/>
+   <newznab:attr name="category" value="2030"/>
+   <newznab:attr name="size" value="1701152936"/>
+   <newznab:attr name="coverurl" value="https://scenenzb.com/covers/movies/1375666-cover.jpg"/>
+   <newznab:attr name="files" value="22"/>
+   <newznab:attr name="poster" value="BBE &lt;BBE@Usenetrevolution.info&gt;"/>
+   <newznab:attr name="imdb" value="1375666"/>
+   <newznab:attr name="info" value="https://scenenzb.com/api?t=info&amp;id=b4fb79f2aca602b8c52d307fb23452ff9f8589dc&amp;r=f5fe3227ebb0e44d9ec37627f4900c43"/>
+   <newznab:attr name="grabs" value="7"/>
+   <newznab:attr name="comments" value="0"/>
+   <newznab:attr name="password" value="-1"/>
+   <newznab:attr name="usenetdate" value="Sat, 24 Aug 2013 13:21:12 +0200"/>
+   <newznab:attr name="group" value="alt.binaries.usenetrevolution"/>
+  </item>
+ </channel>
+</rss>
